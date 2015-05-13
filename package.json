@@ -1,6 +1,6 @@
 {
   "name": "ops-babysit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://nikfrank.com/#/works/os-babysit",
   "description": "OPTIONS request middleware for angular projects",
   "dependencies": {},
