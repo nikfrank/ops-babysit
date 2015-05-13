@@ -1,7 +1,7 @@
 {
   "name": "ops-babysit",
   "version": "0.0.2",
-  "homepage": "http://nikfrank.com/#/works/os-babysit",
+  "homepage": "http://nikfrank.com/#/works/ops-babysit",
   "description": "OPTIONS request middleware for angular projects",
   "dependencies": {},
   "repository": {
@@ -14,7 +14,7 @@
   "devDependencies": {
     "mocha": "1.18.2"
   },
-  "main": "ware-router",
+  "main": "ops-babysit",
   "engines": {
     "node": ">= 0.10.0",
     "npm": ">= 1.3.0"
